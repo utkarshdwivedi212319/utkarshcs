@@ -22,6 +22,6 @@ class Company
         e.getClass(55);
 
 
-        System.out.println(e.getEmpid());
+        System.out.println(e.getEmpid("hii"));
     }
 }
